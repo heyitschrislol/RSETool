@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trace-RSE-Tool v0.5", "csv test-6.28.18\Trace-RSE-Tool v0.5.csproj", "{391BFD04-4A90-4EE3-8F0A-879F4DDA728A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{391BFD04-4A90-4EE3-8F0A-879F4DDA728A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391BFD04-4A90-4EE3-8F0A-879F4DDA728A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391BFD04-4A90-4EE3-8F0A-879F4DDA728A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391BFD04-4A90-4EE3-8F0A-879F4DDA728A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78F34225-A18C-46EE-9F56-2E630977C581}
+	EndGlobalSection
+EndGlobal
